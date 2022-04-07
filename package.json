@@ -1,17 +1,17 @@
 {
-  "name": "citationapp",
+  "name": "citation-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "keywords": [],
+  "author": "Sooraj Modi",
+  "license": "GNU GPLv3",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
     "lint": "eslint .",
     "lint-fix": "eslint . --fix"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.17.3"
   },
